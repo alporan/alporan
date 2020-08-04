@@ -1,1 +1,2 @@
-# [Personal Website](alporan.github.io/blog)
+# Personal Website
+https://alporan.github.io/blog
